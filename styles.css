@@ -1,0 +1,29 @@
+body{
+  background-color:black;
+}
+h1{
+  color:white;
+  font-family:"Lobster";
+  font-size:50px
+}
+.quote{
+  color:white;
+  font-family:'verdana';
+  font-style:italic;
+  font-size:20px;
+}
+.quotes{
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:2em;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.author{
+  font-size:30px;
+}
